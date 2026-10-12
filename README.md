@@ -1,52 +1,118 @@
-<h1 align="center">Hi there, I'm Rayyan! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090A1A,35:172554,70:2563EB,100:06B6D4&text=RAYYAN&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20ALWAYS%20BUILDING&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Animated blue gradient header banner" />
 
-<!-- Animasi teks mengetik di bawah judul -->
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering;Backend+Developer;Database+Enthusiast;System+Testing" alt="Typing SVG" />
-  </a>
-</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Computer+Engineering+Student+at+ITS;Exploring+Cybersecurity+%26+AI;Computer+Vision+%7C+IoT+%7C+Robotics;Learning+by+building+real+things" alt="Animated typing introduction" />
 
-<br/>
-
-<!-- Gambar GIF kucing/anime coding di sebelah kanan -->
-<img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p0Y3JxcWZ5bXk0bHJhOXVxcXZtZW0zY2h5ZHM3MHB0ZzJ2cWZtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF">
-
-### 👨‍💻 About Me
-
-- 🎓 I'm currently studying **Computer Engineering** at **Institut Teknologi Sepuluh Nopember (ITS)**.
-- 💻 My main focus is on **Backend Development** and **Database Management**.
-- 🛠️ I also have solid experience in **System Testing** and **Event Management**.
-- 📍 Based in **Surabaya, East Java**.
-- 🌱 Always eager to learn new technologies and build cool scalable systems.
-- ⚡ Fun fact: I run on coffee and good code!
-- 📫 How to reach me: **rfathanza@gmail.com**
-
-<br/>
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,java,cpp,mysql,postgres,mongodb,docker,git,linux,postman&perline=8" alt="Tech Stack Icons" />
-  </a>
-</p>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayyanft&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanft&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=rayyanft&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-Learning%20%26%20Collaboration-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Open to learning and collaboration" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="82%" alt="Animated coding illustration" />
+</div>
 
-### 🤝 Let's Connect!
+whoami
+I'm a Computer Engineering student at Institut Teknologi Sepuluh Nopember (ITS), interested in the way software, hardware, and intelligent systems come together.
+I learn best by building, testing, breaking things, and figuring out how they work. My current path crosses computer vision, AI, cybersecurity, web development, IoT, and robotics. I'm still learning, and this profile is a snapshot of that journey.
+- Studying Computer Engineering at ITS.
+- Exploring multimedia, image processing, and deep learning.
+- Building a foundation in cybersecurity through hands-on practice.
+- Interested in connected devices, robotics, and AI-powered systems.
+- Enjoy understanding the bigger picture—from backend code to the system around it.
+Current Focus
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/01-COMPUTER%20VISION-0EA5E9?style=for-the-badge&labelColor=0B1220" alt="Computer vision" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=python,opencv,pytorch&theme=dark" alt="Python, OpenCV, PyTorch icons" />
+        <br/>
+        <sub>Image processing, CNN fundamentals, object detection, and YOLO.</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/02-CYBERSECURITY-22C55E?style=for-the-badge&labelColor=0B1220" alt="Cybersecurity" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" alt="Linux, Bash, Kali Linux icons" />
+        <br/>
+        <sub>Learning security concepts and practicing in guided lab environments.</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/03-WEB%20DEVELOPMENT-A78BFA?style=for-the-badge&labelColor=0B1220" alt="Web development" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,flask&theme=dark" alt="Web development technology icons" />
+        <br/>
+        <sub>Backend development, APIs, and learning how full-stack systems fit together.</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/04-IOT%20%26%20ROBOTICS-F59E0B?style=for-the-badge&labelColor=0B1220" alt="IoT and robotics" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi&theme=dark" alt="Arduino, C++, Raspberry Pi icons" />
+        <br/>
+        <sub>Interested in the bridge between code, electronics, and the physical world.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rfathanza/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+Tech I Use & Explore
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,fastapi,flask,opencv,linux,git,github,vscode,arduino&theme=dark&perline=7" alt="Technology and tool icons" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/Locust-00A98F?style=flat-square&logo=locust&logoColor=white" alt="Locust badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV badge" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe badge" />
+</div>
+
+<sub>These icons represent tools I've used or am exploring. They aren't meant to imply expert-level proficiency in every technology.</sub>
+
+GitHub Dashboard
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rayyanft&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanft&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" />
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=rayyanft&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
+  <br/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayyanft&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=22D3EE&area=true&hide_border=true" alt="GitHub activity graph" />
+</div>
+
+Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rayyanft/rayyanft/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation; requires a GitHub Actions workflow" />
+</div>
+
+<sub>To activate this animation, configure the <a href="https://github.com/Platane/snk">Platane/snk GitHub Action</a> in your profile repository and publish the generated SVG to the output branch.</sub>
+Learning Roadmap
+<div align="center">
+  <img src="https://img.shields.io/badge/FOUNDATIONS-Python%20%7C%20Linux%20%7C%20Git-1D4ED8?style=for-the-badge&labelColor=0B1220" alt="Foundations roadmap" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/BUILD-Computer%20Vision%20%7C%20Backend%20%7C%20IoT-0891B2?style=for-the-badge&labelColor=0B1220" alt="Build roadmap" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/GO%20DEEP-AI%20%7C%20Cybersecurity%20%7C%20Systems-7C3AED?style=for-the-badge&labelColor=0B1220" alt="Advanced learning roadmap" />
+</div>
+
+- Strengthen Python and computer-vision fundamentals.
+- Understand CNNs and object detection more deeply.
+- Practice cybersecurity through hands-on labs.
+- Improve backend and full-stack development skills.
+- Write better documentation so others can reproduce what I build.
+Connect
+<div align="center">
+  <a href="https://github.com/rayyanft">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/rfathanza">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:rfathanza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,50:2563EB,100:090A1A&section=footer" width="100%" alt="Blue gradient footer banner" />
+  <sub>Curiosity in mind. Experiments in progress. Better systems, one step at a time.</sub>
+</div>
