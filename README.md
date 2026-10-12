@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090A1A,35:172554,70:2563EB,100:06B6D4&text=RAYYAN&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20ALWAYS%20BUILDING&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Animated blue gradient header banner" />
-
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Computer+Engineering+Student+at+ITS;Exploring+Cybersecurity+%26+AI;Computer+Vision+%7C+IoT+%7C+Robotics;Learning+by+building+real+things" alt="Animated typing introduction" />
-
-  <img src="https://komarev.com/ghpvc/?username=rayyanft&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU" alt="Profile views" />
   <img src="https://img.shields.io/badge/OPEN%20TO-Learning%20%26%20Collaboration-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Open to learning and collaboration" />
 </div>
 
