@@ -76,15 +76,26 @@ GitHub Dashboard
   <br/>
   <img width="70%" src="https://streak-stats.demolab.com?user=rayyanft&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
   <br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayyanft&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=22D3EE&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rayyanft/rayyanft/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation; requires a GitHub Actions workflow" />
-</div>
 
-<sub>To activate this animation, configure the <a href="https://github.com/Platane/snk">Platane/snk GitHub Action</a> in your profile repository and publish the generated SVG to the output branch.</sub>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rayyanft/rayyanft/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rayyanft/rayyanft/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/rayyanft/rayyanft/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+
 Learning Roadmap
 <div align="center">
   <img src="https://img.shields.io/badge/FOUNDATIONS-Python%20%7C%20Linux%20%7C%20Git-1D4ED8?style=for-the-badge&labelColor=0B1220" alt="Foundations roadmap" />
